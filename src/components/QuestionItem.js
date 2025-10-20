@@ -8,6 +8,7 @@ function QuestionItem({ question }) {
       {answer}
     </option>
   ));
+        // Optionally, you can handle the deletion in the parent component
 
   return (
     <li>
